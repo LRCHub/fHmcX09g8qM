@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "渇望",
+  "base_artist": "アイナ・ジ・エンド",
+  "createdAt": "2025-12-05T06:16:43.648449Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "渇望",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": true,
+      "path": "select/01_渇望_アイナ・ジ・エンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "渇望",
+      "artist": "AiNA THE END",
+      "has_synced": false,
+      "path": "select/02_渇望_AiNA_THE_END.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "渇望 - Katsubou",
+      "artist": "AiNA THE END",
+      "has_synced": true,
+      "path": "select/03_渇望_-_Katsubou_AiNA_THE_END.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "渇望",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": false,
+      "path": "select/pl_01_渇望_アイナ・ジ・エンド.txt"
+    }
+  ]
+}
